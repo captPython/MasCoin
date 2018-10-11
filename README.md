@@ -1,0 +1,2 @@
+# MasCoin
+MasCoin Token Contract
