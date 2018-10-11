@@ -1,0 +1,21 @@
+{
+  "name": "ecr20sign",
+  "version": "1.0.0",
+  "description": "erc20 sign",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-util": "^5.2.0",
+    "fs": "0.0.1-security",
+    "openzeppelin-solidity": "^1.12.0",
+    "path": "^0.12.7"
+  }
+}
